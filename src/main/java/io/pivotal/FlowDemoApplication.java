@@ -9,7 +9,7 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 public class FlowDemoApplication extends SpringBootServletInitializer {
 
     public static void main(String[] args) {
-        SpringApplication.run(FlowDemoApplication.class, args);
+    	SpringApplication.run(FlowDemoApplication.class, args);
     }
 
     @Override
